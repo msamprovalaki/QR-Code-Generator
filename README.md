@@ -34,4 +34,8 @@ How to Run
     
 2.  Edit the script to provide the appropriate data\_type and data (e.g., a URL, file path, or social media link).
     
-3.  Run the script using Python.
+3.  Run the script
+``` bash
+python qr_code_generator.py
+```
+
