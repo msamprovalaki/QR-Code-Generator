@@ -38,4 +38,5 @@ How to Run
 ``` bash
 python qr_code_generator.py
 ```
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
