@@ -1,6 +1,5 @@
 # QR-Code-Generator
 
-# QR Code Generator
 
 This Python script allows you to generate QR codes for different types of data including:
 - Websites
